@@ -1,6 +1,10 @@
 # 🚚 Smart Dispatch AI System
 
-![Smart Dispatch Banner](https://placehold.co/800x200?text=Smart+Dispatch+AI+System)
+<div align="center">
+  <img src="https://img.shields.io/badge/🚚_Smart_Dispatch_AI_System-🤖_AI_Powered_Logistics-2E86AB?style=for-the-badge&logo=python&logoColor=white" alt="Smart Dispatch AI System">
+  <br>
+  <em>Intelligent Order-Driver Matching Platform</em>
+</div>
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
@@ -198,7 +202,7 @@ python test_rl_training.py
 
 ---
 
-## �� Workflow Example
+## 🚀 Workflow Example
 
 ### Complete Order-Driver Matching Process
 
